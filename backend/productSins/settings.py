@@ -146,9 +146,4 @@ CORS_ORIGIN_WHITELIST = [
 ]
 
 
-EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_PORT = 587
-EMAIL_HOST_USER = 'jonathan.zhou3@gmail.com'
-EMAIL_HOST_PASSWORD = 'Awokenjuno12**'
-EMAIL_USE_TLS = True
-EMAIL_USE_SSL = False
+
